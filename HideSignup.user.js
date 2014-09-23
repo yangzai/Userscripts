@@ -2,9 +2,9 @@
 // @name       HideSignup
 // @namespace  Hipvan
 // @version    0.1
-// @description  enter something useful
+// @description  Hides Hipvan's signup overlay
 // @match      http://*.hipvan.com/*
-// @copyright  2012+, You
+// @copyright  2014+, You
 // ==/UserScript==
 
 
